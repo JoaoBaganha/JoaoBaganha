@@ -9,7 +9,7 @@
 
 ## 🛠 Tecnologias & Ferramentas
 
-- **Linguagens de Programação**: Java, JavaScript (HTML + CSS), Python, C, C#
+- **Linguagens de Programação**: Java, JavaScript (JS + HTML + CSS), Python, C, C#
 - **Desenvolvimento de Jogos**: Unity + C#
 - **Banco de Dados**: SQL, PostgreSQL
 - **Cloud Computing**: Azure
