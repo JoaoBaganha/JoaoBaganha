@@ -6,7 +6,7 @@
 - 🧠 Também estou em preparação para a certificação **Databricks Data Engineer Associate**.
 - 🎯 Alguns projetos: **Alcohol Consumption Analysis**, **Financial Transactions Data**, **iTunes Data (análise exploratória)**, **MNIST Deep Learning**, **TEP**, **Mo’ã** e **Simulador de Reanimação Neonatal**.
 - 🥋 Fora da tecnologia, pratico jiu-jítsu, acompanho UFC e curto MMA.
-- 💬 Vamos conversar sobre dados, engenharia de dados, analytics, SQL, Python, cloud... ou sobre a luta principal do sábado.
+- 💬 Vamos conversar sobre dados, engenharia de dados, analytics, SQL, Python, cloud... ou sobre os próximos cards do UFC.
 - 📫 Me encontre em: [LinkedIn](https://linkedin.com/in/joaopedrobaganha) | [GitHub](https://github.com/JoaoBaganha) | [GitLab](https://gitlab.com/joaobaganha) | [Email](mailto:baganhajoap@gmail.com)
 
 ## 💻 Tecnologias
