@@ -1,48 +1,67 @@
-# Olá, eu sou o João Baganha 👋
+from pathlib import Path
 
-- 💻 Estudante de Ciência da Computação com foco em dados, engenharia de dados e desenvolvimento de software.
-- 📊 Tenho trabalhado e estudado temas como análise de dados, pipelines ETL, SQL, Python e fundamentos de engenharia de dados.
-- ☁️ Atualmente, estou aprofundando meus estudos em **Databricks**, **Azure** e arquitetura de dados.
-- 🧠 Também estou em preparação para a certificação **Databricks Data Engineer Associate**.
-- 🎯 Alguns projetos: **Alcohol Consumption Analysis**, **Financial Transactions Data**, **iTunes Data (análise exploratória)**, **MNIST Deep Learning**, **TEP**, **Mo’ã** e **Simulador de Reanimação Neonatal**.
-- 🥋 Fora da tecnologia, pratico jiu-jítsu, acompanho UFC (assisto a todo sábado :P ) e MMA no geral!
-- 💬 Vamos conversar sobre dados, engenharia de dados, analytics, SQL, Python, cloud... ou sobre os próximos cards do UFC.
-- 📫 Me encontre em: [LinkedIn](https://linkedin.com/in/joaopedrobaganha) | [GitHub](https://github.com/JoaoBaganha) | [GitLab](https://gitlab.com/joaobaganha) | [Email](mailto:baganhajoap@gmail.com)
+content = """# Olá, eu sou Caio 👋
 
-## 💻 Tecnologias
+Sou estudante do **1º período de Ciência da Computação** e estou iniciando minha jornada como desenvolvedor. Tenho interesse em aprender cada vez mais sobre programação, lógica computacional, desenvolvimento de software e boas práticas de código.
 
-- Python
-- SQL (**PostgreSQL, MySQL**)
-- Excel
-- Power BI
-- Pentaho (PDI)
-- Salesforce
-- SAP Business Builders
-- SAP Analytics Cloud (SAC)
-- Azure
-- AWS
-- Git / GitHub / GitLab
-- Java
-- JavaScript
-- C
+## Sobre mim
 
-## 🚀 Projetos em destaque
+- 🎓 Estudante de Ciência da Computação
+- 💻 Desenvolvedor em formação
+- 📚 Atualmente estudando lógica de programação, algoritmos e fundamentos da computação
+- 🚀 Buscando evoluir por meio de projetos práticos e estudos contínuos
 
-- **Financial Transactions Data** — pipeline ETL para processamento de dados financeiros.
-- **iTunes Data** — análise exploratória de dados voltada à extração de insights.
-- **MNIST Deep Learning** — reconhecimento de dígitos com redes neurais.
-- **TEP (Tokenização Empresarial Paraense)** — projeto voltado à tokenização de produtos de empresas locais.
-- **Mo’ã** — projeto de repelentes elétricos sustentáveis com insumos da bioeconomia amazônica.
-- **Simulador de Reanimação Neonatal** — serious game para treinamento de procedimentos médicos.
+## Tecnologias que estou aprendendo
 
-## 🎓 Formação
+<div align="left">
 
-- **Bacharelado em Ciência da Computação** — CESUPA  
-  2023 – 2026
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## 🌐 Idiomas
+</div>
 
-- Português (nativo)
-- Inglês (fluente)
-- Espanhol (intermediário)
-- Finlandês (intermediário)
+## Áreas de interesse
+
+- Desenvolvimento de software
+- Lógica de programação
+- Algoritmos e estruturas de dados
+- Desenvolvimento web
+- Resolução de problemas com código
+
+## Objetivos
+
+Meu objetivo é construir uma base sólida em computação, desenvolver projetos práticos e evoluir como programador. Estou sempre buscando aprender novas tecnologias, melhorar minha lógica e aplicar meus conhecimentos em desafios reais.
+
+## Projetos em desenvolvimento
+
+Atualmente estou criando pequenos projetos para praticar:
+
+- Programas em **Python**
+- Scripts e páginas com **JavaScript**
+- Exercícios e algoritmos em **C**
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=default)
+
+</div>
+
+## Contato
+
+- GitHub: [SEU_USUARIO_AQUI](https://github.com/SEU_USUARIO_AQUI)
+- LinkedIn: [SEU_LINKEDIN_AQUI](SEU_LINKEDIN_AQUI)
+- E-mail: SEU_EMAIL_AQUI
+
+---
+
+> “A melhor forma de aprender programação é praticando, errando, corrigindo e tentando novamente.”
+"""
+
+path = Path("/mnt/data/README_Caio_GitHub_Profile.md")
+path.write_text(content, encoding="utf-8")
+path.as_posix()
