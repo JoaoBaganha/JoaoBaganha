@@ -44,5 +44,5 @@
 
 - Português (nativo)
 - Inglês (fluente)
-- Espanhol (intermediário)
+- Espanhol (avançado)
 - Finlandês (intermediário)
